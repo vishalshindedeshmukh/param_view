@@ -1,0 +1,12 @@
+{
+  "name": "param_view_1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+  "tsc" : "tsc -p ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
